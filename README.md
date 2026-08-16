@@ -1,11 +1,9 @@
 # Olá, mundo! Sou o Samuel Érik 👋
 
-<img src="https://giovannidemizio.it" width="350" alt="Software Engineering GIF">
-
 ### Acadêmico de Engenharia de Software | Técnico em ADS pelo Senac | Cabo do Exército 🇧🇷
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![E-mail](https://shields.io)](mailto:seu-email@gmail.com)
+[Meu perfil no LinkedIn](https://linkedin.com)  
+[Fale Comigo por E-mail](mailto:seu-email@gmail.com)
 
 ---
 
@@ -22,21 +20,16 @@
 ## 🛠️ Tecnologias em Foco
 
 ### Front-End
-![](https://shields.io) ![](https://shields.io)
+![HTML5](html.png) ![CSS3](css.png)
 
 ### Back-End & Banco de Dados
-![](https://shields.io) ![](https://shields.io)
+![Java](java.png) ![MySQL](mysql.png)
 
 ---
 
-## 📊 Estatísticas do Perfil
+## 📊 Links Estatísticos do GitHub
 
-<div align="center">
-  <img src="https://vercel.app" alt="Estatísticas Dinâmicas do GitHub" />
-</div>
+Como o aplicativo do GitHub às vezes impede o carregamento de imagens pesadas ou dinâmicas na tela inicial, abaixo estão os links de atualização rápida do meu perfil:
 
----
-
-<div align="center">
-  <img src="https://komarev.com" alt="Contador de Visitas" />
-</div>
+- [📊 Acessar meu Painel de Estatísticas de Commits](https://vercel.app)
+- [📈 Visualizar minhas Tecnologias mais Utilizadas](https://vercel.app)
