@@ -1,4 +1,4 @@
-# Olá, mundo! Sou o Samuel Érik 👋
+# Olá, mundo! Sou o Samuel Érik 
 
 ### Acadêmico de Engenharia de Software | Técnico em ADS pelo Senac
 
@@ -7,17 +7,17 @@
 
 ---
 
-## 🪖 Sobre Mim
+##  Sobre Mim
 
-- 🎓 Cursando **Bacharelado em Engenharia de Software**.
-- 🏫 Aluno do Curso Técnico em **Análise e Desenvolvimento de Sistemas (ADS)** no Senac.
-- 🎖️ Atualmente concilio os estudos de tecnologia com a rotina militar de **Cabo do Exército**.
-- 🚀 Tenho **23 anos** e foco total na transição de carreira para a área de desenvolvimento.
-- 🌱 No momento, focado em dominar os fundamentos da web e lógica orientada a objetos.
+-  Cursando **Bacharelado em Engenharia de Software**.
+-  Aluno do Curso Técnico em **Análise e Desenvolvimento de Sistemas (ADS)** no Senac.
+-  Atualmente concilio os estudos de tecnologia com a rotina militar de **Cabo do Exército**.
+-  Tenho **23 anos** e foco total na transição de carreira para a área de desenvolvimento.
+-  No momento, focado em dominar os fundamentos da web e lógica orientada a objetos.
 
 ---
 
-## 🛠️ Tecnologias em Foco
+##  Tecnologias em Foco
 
 ### Front-End
 ![](https://shields.io) ![](https://shields.io)
@@ -27,13 +27,13 @@
 
 ---
 
-## 🏆 Meus Troféus do GitHub
+##  Meus Troféus do GitHub
 
-🏆 ![Troféus do GitHub](https://vercel.app)
+![Troféus do GitHub](https://vercel.app)
 
 ---
 
-## 🕹️ Jogo do Pac-Man (Contribuições)
+##  Jogo do Pac-Man (Contribuições)
 
 ![Pacman Eating Commits](https://githubusercontent.com)
 
