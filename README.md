@@ -1,6 +1,6 @@
 # Olá, mundo! Sou o Samuel Érik 👋
 
-![](https://githubusercontent.com)
+<img src="https://giovannidemizio.it" width="350" alt="Software Engineering GIF">
 
 ### Acadêmico de Engenharia de Software | Técnico em ADS pelo Senac | Cabo do Exército 🇧🇷
 
@@ -29,12 +29,14 @@
 
 ---
 
-## 📊 Estatísticas (Modo Dark)
+## 📊 Estatísticas do Perfil
 
-![Estatísticas do GitHub](https://vercel.app)
-
-![Linguagens mais usadas](https://vercel.app)
+<div align="center">
+  <img src="https://vercel.app" alt="Estatísticas Dinâmicas do GitHub" />
+</div>
 
 ---
 
-![Contador de Visitas](https://komarev.com)
+<div align="center">
+  <img src="https://komarev.com" alt="Contador de Visitas" />
+</div>
