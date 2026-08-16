@@ -26,28 +26,17 @@
 ## 🛠️ Tecnologias em Foco
 
 ### Front-End
-<div align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</div>
+<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" />
 
 ### Back-End & Banco de Dados
-<div align="left">
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="MySQL" />
-</div>
+<img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="MySQL" />
 
 ---
 
 ## 📊 Estatísticas (Modo Dark)
 
 <div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
-</div>
-
-<br>
-
-<div align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" /><br><br>
   <img src="https://vercel.app" alt="Linguagens mais usadas" />
 </div>
 
