@@ -2,8 +2,8 @@
 
 ### Acadêmico de Engenharia de Software | Técnico em ADS pelo Senac | Cabo do Exército 🇧🇷
 
-[Meu perfil no LinkedIn](https://linkedin.com)  
-[Fale Comigo por E-mail](mailto:seu-email@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![E-mail](https://shields.io)](mailto:seu-email@gmail.com)
 
 ---
 
@@ -20,16 +20,30 @@
 ## 🛠️ Tecnologias em Foco
 
 ### Front-End
-![HTML5](html.png) ![CSS3](css.png)
+![](https://shields.io) ![](https://shields.io)
 
 ### Back-End & Banco de Dados
-![Java](java.png) ![MySQL](mysql.png)
+![](https://shields.io) ![](https://shields.io)
 
 ---
 
-## 📊 Links Estatísticos do GitHub
+## 🏆 Meus Troféus do GitHub
 
-Como o aplicativo do GitHub às vezes impede o carregamento de imagens pesadas ou dinâmicas na tela inicial, abaixo estão os links de atualização rápida do meu perfil:
+Aqui ficam listados os troféus das suas conquistas automáticas na plataforma:
 
-- [📊 Acessar meu Painel de Estatísticas de Commits](https://vercel.app)
-- [📈 Visualizar minhas Tecnologias mais Utilizadas](https://vercel.app)
+🏆 ![Troféus do GitHub](https://vercel.app)
+
+---
+
+## 🕹️ Jogo do Pac-Man (Gráfico de Contribuições)
+
+Este gráfico vai ganhar vida e se transformar no Pac-Man comendo os blocos conforme você for fazendo commits e projetos no seu GitHub:
+
+![Pacman Eating Commits](https://githubusercontent.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com" alt="Contador de Visitas" />
+</div>
+
