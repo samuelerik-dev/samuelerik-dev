@@ -1,5 +1,3 @@
-<div align="center">
-
 # Olá, mundo! Sou o Samuel Érik 👋
 
 ![](https://githubusercontent.com)
@@ -8,8 +6,6 @@
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![E-mail](https://shields.io)](mailto:seu-email@gmail.com)
-
-</div>
 
 ---
 
@@ -35,14 +31,10 @@
 
 ## 📊 Estatísticas (Modo Dark)
 
-<div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <br><br>
-  <img src="https://vercel.app" alt="Linguagens mais usadas" />
-</div>
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens mais usadas](https://vercel.app)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com" alt="Contador de Visitas" />
-</div>
+![Contador de Visitas](https://komarev.com)
