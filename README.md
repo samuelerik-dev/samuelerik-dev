@@ -1,6 +1,6 @@
 # Olá, mundo! Sou o Samuel Érik 👋
 
-### Acadêmico de Engenharia de Software | Técnico em ADS pelo Senac | Cabo do Exército 🇧🇷
+### Acadêmico de Engenharia de Software | Técnico em ADS pelo Senac
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![E-mail](https://shields.io)](mailto:seu-email@gmail.com)
@@ -33,6 +33,8 @@
 
 ---
 
+## 🕹️ Jogo do Pac-Man (Contribuições)
+
 ![Pacman Eating Commits](https://githubusercontent.com)
 
 ---
@@ -40,4 +42,3 @@
 <div align="center">
   <img src="https://komarev.com" alt="Contador de Visitas" />
 </div>
-
