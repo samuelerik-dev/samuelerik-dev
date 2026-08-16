@@ -29,15 +29,9 @@
 
 ## 🏆 Meus Troféus do GitHub
 
-Aqui ficam listados os troféus das suas conquistas automáticas na plataforma:
-
 🏆 ![Troféus do GitHub](https://vercel.app)
 
 ---
-
-## 🕹️ Jogo do Pac-Man (Gráfico de Contribuições)
-
-Este gráfico vai ganhar vida e se transformar no Pac-Man comendo os blocos conforme você for fazendo commits e projetos no seu GitHub:
 
 ![Pacman Eating Commits](https://githubusercontent.com)
 
