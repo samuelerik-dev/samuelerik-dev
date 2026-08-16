@@ -2,7 +2,7 @@
 
 # Olá, mundo! Sou o Samuel Érik 👋
 
-<img src="https://giphy.com" width="350" alt="Coding Neon GIF">
+![](https://githubusercontent.com)
 
 ### Acadêmico de Engenharia de Software | Técnico em ADS pelo Senac | Cabo do Exército 🇧🇷
 
@@ -26,17 +26,18 @@
 ## 🛠️ Tecnologias em Foco
 
 ### Front-End
-<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" />
+![](https://shields.io) ![](https://shields.io)
 
 ### Back-End & Banco de Dados
-<img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="MySQL" />
+![](https://shields.io) ![](https://shields.io)
 
 ---
 
 ## 📊 Estatísticas (Modo Dark)
 
 <div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" /><br><br>
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <br><br>
   <img src="https://vercel.app" alt="Linguagens mais usadas" />
 </div>
 
