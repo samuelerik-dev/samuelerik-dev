@@ -2,8 +2,8 @@
 
 ### Acadêmico de Engenharia de Software | Técnico em ADS pelo Senac
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![E-mail](https://shields.io)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/samuel-%C3%A9rik-pereira-baiadori-128422411/))
+[![E-mail](https://shields.io)](mailto:samuelerik32@gmail.com)
 
 ---
 
@@ -20,22 +20,22 @@
 ##  Tecnologias em Foco
 
 ### Front-End
-![](https://shields.io) ![](https://shields.io)
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
 
 ### Back-End & Banco de Dados
-![](https://shields.io) ![](https://shields.io)
+![Java](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io)
 
 ---
 
 ##  Meus Troféus do GitHub
 
-![Troféus do GitHub](https://vercel.app)
+[![github-profile-trophy](https://vercel.app)](https://github.com)
 
 ---
 
 ##  Jogo do Pac-Man (Contribuições)
 
-![Pacman Eating Commits](https://githubusercontent.com)
+![Pacman Eating Commits](https://vercel.app)
 
 ---
 
