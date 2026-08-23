@@ -1,16 +1,18 @@
+```yaml
 name: Generate Pac-Man and Galaga
 
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Generate Pac-Man and Galaga
@@ -18,13 +20,13 @@ jobs:
         with:
           github_user_name: samuelerik-dev
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: pacman,galaga
+          games: "pacman,galaga"
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push generated SVGs
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
-          jekyll: false
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
+```
