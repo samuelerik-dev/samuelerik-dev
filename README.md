@@ -24,13 +24,16 @@
 ## 👨‍💻 Sobre mim
 
 * 🎓 Cursando **Bacharelado em Engenharia de Software**.
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** pelo **Senac**
+* 🎓 Estudando **Desenvolvimento Web pelo Senac**.
 * 💻 Em formação na área de **Desenvolvimento de Software**.
 * 🌐 Estudando **Desenvolvimento Web**, lógica de programação e orientação a objetos.
 * ☕ Atualmente aprofundando meus conhecimentos em **Java**.
 * 🗄️ Estudando **bancos de dados e SQL**.
 * 🔧 Utilizando **Git e GitHub** para versionamento e organização dos meus projetos.
 * 📚 Buscando evoluir constantemente através de projetos práticos.
+
+> 💡 Meu objetivo é transformar cada projeto em uma oportunidade para aprender, experimentar e evoluir como desenvolvedor.
+
 
 > 💡 Meu objetivo é transformar cada projeto em uma oportunidade para aprender, experimentar e evoluir como desenvolvedor.
 
@@ -60,27 +63,10 @@
 
 ### 🛠️ Ferramentas
 
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="60" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,discord" height="60" alt="Ferramentas" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="60" alt="Trello" />
+</p>
 
 ###
 
@@ -153,25 +139,23 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 ---
 
-## 🐍 Minhas contribuições
+## 🎮 Minhas contribuições
 
-###
+### 👻 Pac-Man
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man consumindo minhas contribuições do GitHub" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### 🚀 Galaga
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph.svg?game=galaga">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph.svg">
+  <img alt="Galaga representando minhas contribuições do GitHub" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph.svg">
 </picture>
-
-###
 
 ---
 
