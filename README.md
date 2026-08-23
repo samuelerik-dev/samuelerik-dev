@@ -104,13 +104,19 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelerik-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=samuelerik-dev&show_icons=true&theme=tokyonight"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelerik-dev&layout=compact&langs_count=8&theme=tokyonight"/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelerik-dev&layout=compact&theme=tokyonight"
+/>
 
 </div>
 
@@ -130,8 +136,13 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/trophy-output/trophy.svg"
+  alt="GitHub Trophies"
+/>
+
 </div>
 
 ###
