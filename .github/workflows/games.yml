@@ -4,6 +4,9 @@ on:
 schedule:
 - cron: "0 0 * * *"
 workflow_dispatch:
+push:
+branches:
+- main
 
 jobs:
 generate:
@@ -12,13 +15,21 @@ contents: write
 
 ```
 runs-on: ubuntu-latest
+timeout-minutes: 20
 
 steps:
-  - name: Generate Pac-Man and Galaga contribution graphs
+  - name: Generate contribution games
     uses: abozanona/pacman-contribution-graph@main
     with:
       github_user_name: ${{ github.repository_owner }}
       github_token: ${{ secrets.GITHUB_TOKEN }}
-      github_user_email: ${{ github.repository_owner }}@users.noreply.github.com
       games: "pacman,galaga"
+
+  - name: Publish SVGs
+    uses: crazy-max/ghaction-github-pages@v3.1.0
+    with:
+      build_dir: dist
+      target_branch: output
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
