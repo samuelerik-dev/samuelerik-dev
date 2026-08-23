@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Samuel Érik
+# Olá! Eu sou Samuel Érik
 
 ### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor em formação
 
@@ -18,6 +18,7 @@
 ## 👨‍💻 Sobre mim
 
 * 🎓 Cursando **Bacharelado em Engenharia de Software**.
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** pelo **Senac**
 * 💻 Em formação na área de **Desenvolvimento de Software**.
 * 🌐 Estudando **Desenvolvimento Web**, lógica de programação e orientação a objetos.
 * ☕ Atualmente aprofundando meus conhecimentos em **Java**.
@@ -64,6 +65,7 @@
 ## 📚 Atualmente estudando
 
 ```text
+java
 JavaScript            
 HTML & CSS           
 SQL / MySQL           
