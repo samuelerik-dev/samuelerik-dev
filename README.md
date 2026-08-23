@@ -134,25 +134,35 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 </div>
 
+
 ---
 
 ## 🎮 Minhas contribuições
 
-### 👻 Pac-Man
+## 👻 Pac-Man
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man consumindo minhas contribuições do GitHub" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-### 🚀 Galaga
+</div>
+
+
+## 🚀 Galaga
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph.svg">
-  <img alt="Galaga representando minhas contribuições do GitHub" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph.svg">
 </picture>
+
+</div>
 
 ---
 
