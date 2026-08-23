@@ -1,3 +1,9 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 # Olá! Eu sou Samuel Érik
 
 ### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor em formação
@@ -54,11 +60,29 @@
 
 ### 🛠️ Ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="60" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+</div>
+
+###
 
 ---
 
@@ -131,15 +155,23 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 ## 🐍 Minhas contribuições
 
-<div align="center">
+###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/output/github-snake.svg">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-</div>
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
 
 ---
 
@@ -178,14 +210,16 @@ Evoluir
 
 ## 📫 Entre em contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/samuel-%C3%A9rik-pereira-baiadori-128422411/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:samuelerik32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Enviar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/samuelerik-dev/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/samuelerik-dev/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/samuelerik-dev/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/samuelerik-dev/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
+</div>
+
+###
 
 ---
 
@@ -198,3 +232,11 @@ Evoluir
 <img src="https://komarev.com/ghpvc/?username=samuelerik-dev&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Contador de visualizações" />
 
 </div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
