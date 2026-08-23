@@ -34,9 +34,6 @@
 
 > 💡 Meu objetivo é transformar cada projeto em uma oportunidade para aprender, experimentar e evoluir como desenvolvedor.
 
-
-> 💡 Meu objetivo é transformar cada projeto em uma oportunidade para aprender, experimentar e evoluir como desenvolvedor.
-
 ---
 
 ## 🚀 Tecnologias & Ferramentas
