@@ -64,31 +64,15 @@
 ## 📚 Atualmente estudando
 
 ```text
-Java                  ███████████████░░░░░
-JavaScript            ████████████░░░░░░░░
-HTML & CSS            ████████████████░░░░
-SQL / MySQL           ███████████░░░░░░░░░
-Git & GitHub          ██████████████░░░░░░
-Lógica de Programação ███████████████░░░░░
+JavaScript            
+HTML & CSS           
+SQL / MySQL           
+Git & GitHub         
+Lógica de Programação
 ```
-
-> Essas barras representam apenas meu foco atual de estudos, não níveis oficiais de domínio.
-
 ---
 
 ## 💻 Projetos em destaque
-
-### 🐍 Jogo da Cobrinha
-
-Um projeto desenvolvido para praticar lógica de programação, estruturas de controle, interação com o usuário e organização de código.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **[Ver projeto](#)**
-📂 **[Ver código-fonte](#)**
-
 ---
 
 ### 🌱 Projetos Web
@@ -115,9 +99,9 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelerik-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelerik-dev&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -127,7 +111,7 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=samuelerik-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -137,7 +121,7 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=samuelerik-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
@@ -147,7 +131,7 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -156,7 +140,6 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 ## 🎯 Objetivos
 
 * [ ] Fortalecer minha base em lógica de programação
-* [ ] Aprofundar meus conhecimentos em Java
 * [ ] Evoluir em JavaScript
 * [ ] Aprender mais sobre desenvolvimento Back-End
 * [ ] Aprofundar conhecimentos em bancos de dados
@@ -180,7 +163,7 @@ Errar
    ↓
 Aprender novamente
    ↓
-Evoluir 🚀
+Evoluir 
 ```
 
 > "O melhor código é aquele que você entende hoje e consegue melhorar amanhã."
@@ -206,6 +189,6 @@ Evoluir 🚀
 
 ⭐ Se algum projeto for útil para você, considere deixar uma estrela.
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Contador de visualizações" />
+<img src="https://komarev.com/ghpvc/?username=samuelerik-dev&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Contador de visualizações" />
 
 </div>
