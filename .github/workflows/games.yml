@@ -1,35 +1,30 @@
 name: Generate Pac-Man and Galaga
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-push:
-branches:
-- main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-generate:
-permissions:
-contents: write
+  generate:
+    runs-on: ubuntu-latest
 
-```
-runs-on: ubuntu-latest
-timeout-minutes: 20
+    permissions:
+      contents: write
 
-steps:
-  - name: Generate contribution games
-    uses: abozanona/pacman-contribution-graph@main
-    with:
-      github_user_name: ${{ github.repository_owner }}
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      games: "pacman,galaga"
+    steps:
+      - name: Generate Pac-Man and Galaga
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: samuelerik-dev
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: pacman,galaga
 
-  - name: Publish SVGs
-    uses: crazy-max/ghaction-github-pages@v3.1.0
-    with:
-      build_dir: dist
-      target_branch: output
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
