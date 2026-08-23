@@ -134,6 +134,11 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/samuelerik-dev/samuelerik-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://SEU-USUARIO.github.io/SEU-REPOSITORIO/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://SEU-USUARIO.github.io/SEU-REPOSITORIO/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://SEU-USUARIO.github.io/SEU-REPOSITORIO/github-snake.svg">
+</picture>
 
 </div>
 
