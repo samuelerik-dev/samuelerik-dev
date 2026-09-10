@@ -60,10 +60,17 @@
 
 ### 🛠️ Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,discord" height="60" alt="Ferramentas" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="60" alt="Trello" />
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="60" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
+</div>
 
 ###
 
