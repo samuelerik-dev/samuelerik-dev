@@ -148,7 +148,7 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://githubusercontent.com" height="150" alt="trophy graph"  />
+  <img src="https://vercel.app" height="150" alt="trophy graph"  />
 </div>
 
 ###
