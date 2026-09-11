@@ -123,12 +123,12 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=samuelerik-dev&show_icons=true&theme=tokyonight"
+  src="https://github-stats-extended.vercel.app/api?username=samuelerik-dev&show_icons=true&theme=tokyonight"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelerik-dev&layout=compact&theme=tokyonight"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=samuelerik-dev&layout=compact&theme=tokyonight"
 />
 
 </div>
