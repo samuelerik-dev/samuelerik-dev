@@ -4,7 +4,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Samuel+%C3%89rik.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=3FFF00&width=435&lines=Ol%C3%A1%2C+me+chamo+Samuel+%C3%89rik.)](https://git.io/typing-svg)
 
 ### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor em formação
 
